@@ -1,8 +1,14 @@
+<div align="center">
+
 # Admin Items
 
-> Three admin wands (explosion, lightning, meteor) granted per player from an in-game permission menu.
+**Three admin wands (explosion, lightning, meteor) granted per player from an in-game permission menu.**
 
 [![Download](https://img.shields.io/badge/Download-latest%20build-e94560?style=for-the-badge&logo=github&logoColor=white)](../../releases/latest)
+
+</div>
+
+---
 
 A Bedrock add-on with three wands and a permission system. A background loop enforces who is allowed to hold which wand: authorised players always keep theirs (even after death or a drop), unauthorised players lose it instantly - even if they got it through `/give`. **The first player to join a world becomes the owner** and grants the rest from the Admin Menu.
 
@@ -35,8 +41,11 @@ Every pack of mine carries a small easter egg: craft the **Dev Book** with **9 l
 - These wands destroy terrain and can grief other players - use them on worlds and servers you run.
 - Not an official Minecraft product. Not approved by or associated with Mojang or Microsoft.
 
-![preview](admin-items.png)
+<div align="center">
 
+<img src="admin-items.png" alt="Admin Items" width="760">
+
+</div>
 ---
 
 Made by **dev:#2444** - [github.com/hash2444](https://github.com/hash2444) - [admin-items](https://github.com/hash2444/admin-items)
